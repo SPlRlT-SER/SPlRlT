@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/SPlRlTSER">Lfahermit</a> to make 
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/8q8OCqR6rXQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="
 </p>
   
 
@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/SPlRlTSER">Lfahermit</a> to make 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-        https://chat.whatsapp.com/JdEYC9urgn4GL4kbTHcEq4
+        https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU
     
 ## Setup
 <div align="center">
