@@ -107,8 +107,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Lfahermit](https://github.com/Lfahermit.png?size=100)](https://github.com/Lfahermit) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[Lfahermit](https://github.com/Lfahermit)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[Lfahermit](https://github.com/Lfahermit)  | 
   </div>
     
 
